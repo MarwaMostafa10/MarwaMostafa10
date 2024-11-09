@@ -1,4 +1,4 @@
-Hi there 👋 I'm [Marwa Mostafa]!
+Hi there 👋 I'm Marwa Mostafa!
 I’m a passionate Data Analyst with a keen eye for discovering insights from data and a strong background in transforming raw data into actionable insights. I enjoy working on data projects that drive meaningful business decisions and contribute to achieving measurable results.
 
 🔍 About Me
